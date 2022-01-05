@@ -1,14 +1,9 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2020-11-01
-tags:
-  - Jekyll
-  - Markdown
-author: Andrew Smith
-avatar: assets/img/common/andrew-avatar.png
-category: Example Posts
+title: "بهترین خاطره1"
 ---
+## general conversation
+بهترین خاطره از این ترم رفتن به دانشگاه و دیدن محیط دانشگاه با پدرم بود
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
